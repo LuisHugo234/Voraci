@@ -8,7 +8,7 @@ An AI-powered mobile culinary assistant built with React Native and Expo that us
 - **AI Vision Scanner** — Take a photo of your fridge and the AI automatically detects the food items.
 - **AI Chef** — Generates 3 personalized recipes based on your pantry, dietary preferences, and restrictions.
 - **User Profile** — Set your diet type, allergies, servings, available time, cooking level, and cuisine preference.
-- **Authentication** — Sign in with Google or email and password via Firebase.
+- **Authentication** — Sign in with Google via Firebase.
 
 ## Tech Stack
 
